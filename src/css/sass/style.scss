@@ -1,0 +1,8 @@
+//first we need to include typography and color so all the fonts and colors applied to the site can load first, otherwise it will throw and error.
+@import "partials/typography";
+@import "partials/color";
+
+
+@import "partials/header";
+
+//end of file
